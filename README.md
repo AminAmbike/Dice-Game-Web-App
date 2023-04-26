@@ -8,8 +8,8 @@ Web app game where the user rolls a virtual dice against the cpu.
 - CSS
 
 # Instructions
-1. Download Web App folder
-2. click on "dicce.html"
+1. Download "Dice Game Webapp" folder
+2. click on "dicee.html"
 3. refresh to reroll.
 
 # Next Steps
